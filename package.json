@@ -1,6 +1,6 @@
 {
   "name": "edarkmode",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Easy and customizable darkmode usage.",
   "main": "edarkmode.js",
   "scripts": {
