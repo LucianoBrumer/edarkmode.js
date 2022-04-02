@@ -6,4 +6,12 @@ This library automatically detects the device's thema and if the user decides to
 ```
 npm i edarkmode
 ```
+
+# Example
+https://codepen.io/lucianobrumer/pen/abEVGpK
+
 # Usage
+Use this in your fotter:
+```
+<script src="./node_modules/edarkmode/src/edarkmode.min.js"></script>
+```
