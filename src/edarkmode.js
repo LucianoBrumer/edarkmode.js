@@ -16,4 +16,4 @@ localStorage.getItem("theme") == null
 		? setTheme("dark")
 		: setTheme("light");
 
-module.exports = setTheme;
+export {setTheme};
