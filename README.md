@@ -8,9 +8,7 @@ npm i edarkmode
 ```
 
 # Example
-Sometimes it may not work, but that's why codepen denied "LocalStorage" :/
-
-https://codepen.io/lucianobrumer/pen/abEVGpK
+https://lucianobrumer.github.io/edarkmode.js/
 
 # Usage
 Use this in your fotter:

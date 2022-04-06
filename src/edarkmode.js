@@ -15,5 +15,3 @@ localStorage.getItem("theme") == null
 	: localStorage.getItem("theme") == "dark"
 		? setTheme("dark")
 		: setTheme("light");
-
-export {setTheme};
