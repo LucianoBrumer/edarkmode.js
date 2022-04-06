@@ -11,9 +11,10 @@ npm i edarkmode
 
 # Example
 https://lucianobrumer.github.io/edarkmode.js/
+(Source code: https://github.com/LucianoBrumer/edarkmode.js/tree/page)
 
 # Usage
-Use this in your fotter:
+Use this in your footer:
 ```
 <script src="edarkmode.js"></script>
 ```
