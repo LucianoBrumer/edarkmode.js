@@ -6,6 +6,8 @@ This library automatically detects the device's thema and if the user decides to
 ```
 npm i edarkmode
 ```
+or
+https://github.com/LucianoBrumer/edarkmode.js/tree/releases
 
 # Example
 https://lucianobrumer.github.io/edarkmode.js/
