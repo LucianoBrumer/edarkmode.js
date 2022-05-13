@@ -20,15 +20,15 @@ In your .css file:
 ```
 /*light theme variables*/
 :root{
-	--bg: #fff;
-	--button: #77DD77;
-	--text: #444;
+    --bg: #fff;
+    --button: #77DD77;
+    --text: #444;
 }
 
 /*dark theme variables*/
 [data-theme="dark"] {
-	--bg: #222;
-	--button: #444;
+    --bg: #222;
+    --button: #444;
     --text: #fff;
 }
 ```
