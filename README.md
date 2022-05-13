@@ -9,12 +9,10 @@ https://github.com/LucianoBrumer/edarkmode.js/tree/releases
 ```
 <script src="edarkmode.js"></script>
 ```
-
-# Example
-
-https://lucianobrumer.github.io/edarkmode.js/
-
-(Source code: https://github.com/LucianoBrumer/edarkmode.js/tree/page)
+or
+```
+npm i edarkmode
+```
 
 # Usage
 
@@ -34,3 +32,9 @@ In your .css file:
     --text: #fff;
 }
 ```
+
+# Example
+
+https://lucianobrumer.github.io/edarkmode.js/
+
+(Source code: https://github.com/LucianoBrumer/edarkmode.js/tree/page)
