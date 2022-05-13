@@ -18,3 +18,18 @@ Use this in your footer:
 ```
 <script src="edarkmode.js"></script>
 ```
+```
+/*light theme variables*/
+:root{
+	--bg: #fff;
+	--button: #77DD77;
+	--text: #444;
+}
+
+/*dark theme variables*/
+[data-theme="dark"] {
+	--bg: #222;
+	--button: #444;
+    --text: #fff;
+}
+```
