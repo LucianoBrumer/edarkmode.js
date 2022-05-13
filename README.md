@@ -4,9 +4,8 @@ This library automatically detects the device's thema and if the user decides to
 
 # Installation
 https://github.com/LucianoBrumer/edarkmode.js/tree/releases
-or
 ```
-npm i edarkmode
+<script src="edarkmode.js"></script>
 ```
 
 # Example
@@ -14,10 +13,7 @@ https://lucianobrumer.github.io/edarkmode.js/
 (Source code: https://github.com/LucianoBrumer/edarkmode.js/tree/page)
 
 # Usage
-Use this in your footer:
-```
-<script src="edarkmode.js"></script>
-```
+In your .css file:
 ```
 /*light theme variables*/
 :root{
