@@ -1,7 +1,9 @@
 # edarkmode.js
 
 A little JavaScript library to add darkmode in your project, its simple and with customizable colors.
+
 This library automatically detects the device's thema and if the user decides to change it, it is saved using "LocalStorage".
+
 Compatible with Tailwind CSS.
 
 # Usage
