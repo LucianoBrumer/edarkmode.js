@@ -17,16 +17,21 @@ npm i edarkmode
 # Usage
 
 In your .css file:
+
 ```
-/*light theme variables*/
-:root{
+<button id="toggle-darkmode-button"> Change Theme </button>
+```
+
+```
+/*light mode colors*/
+:root {
     --bg: #fff;
-    --button: #77DD77;
-    --text: #444;
+    --button: #FCFCFC;
+    --text: #777;
 }
 
-/*dark theme variables*/
-[data-theme="dark"] {
+/*dark mode colors*/
+html.dark {
     --bg: #222;
     --button: #444;
     --text: #fff;
